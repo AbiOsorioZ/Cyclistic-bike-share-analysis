@@ -1,6 +1,6 @@
 # Cyclistic Bike-Share: User Behavior & Ride Trends Analysis
 
-![Dashboard Preview](ruta_de_tu_captura_de_graficas_aqui.png)
+![Dashboard Preview](https://github.com/AbiOsorioZ/Cyclistic-bike-share-analysis/blob/main/comparacion%20membresia-casual.png)
 
 ## Project Overview
 Exploratory data analysis of ~4.9M rows of historical bike-share data from Cyclistic[cite: 18]. This end-to-end data analytics project investigates how annual members and casual riders use Cyclistic bikes differently. By cleaning, transforming, and modeling large datasets using Python (Pandas), and generating visual insights via Seaborn and Matplotlib, this study provides data-driven recommendations for converting casual riders into annual members.
